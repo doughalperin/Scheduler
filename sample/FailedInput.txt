@@ -1,0 +1,14 @@
+#various test cases
+#comment out other errors to test
+#Invalid Name
+#Writi222ng Fast Tests Against Enterprise Rails 160min
+
+#Zero length Session
+#Overdoing it in Python 0min
+Rails for Python Developers lightning
+Accounting-Driven Development 45min
+
+#session is longer than any block
+Programming in the Boondocks of Seattle 6hrs30min
+
+Ruby vs. Clojure for Back-End Development 230min
